@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-PJAQBUU</Machine>
+    <WindowsUser>Himel</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>dac4f6aa-2ca4-415b-8f20-3aa0ad915bd0</PackageIdentityName>
+    <RegisteredManifestChecksum>0783F8A45196B6BF3397D4AFA83B72B1A0B7D12A616735D84E4607741266F932</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>dac4f6aa-2ca4-415b-8f20-3aa0ad915bd0_1.0.0.0_neutral__46hqn313xs8fw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>dac4f6aa-2ca4-415b-8f20-3aa0ad915bd0_46hqn313xs8fw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>dac4f6aa-2ca4-415b-8f20-3aa0ad915bd0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Himel</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Dot Net-C#\2nd Exam_C#-Part-2 &amp; SQL-Part-1\C#-Part-2\Project 2nd Module\1228757_Ok_row\store App customer information\App1cus\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-01T09:45:05.909</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Dot Net-C#\2nd Exam_C#-Part-2 &amp; SQL-Part-1\C#-Part-2\Project 2nd Module\1228757_Ok_row\store App customer information\App1cus\App1\bin\Debug\App1.exe">
+      <PackagePath>App1.exe</PackagePath>
+      <Modified>2018-03-26T16:31:07.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Dot Net-C#\2nd Exam_C#-Part-2 &amp; SQL-Part-1\C#-Part-2\Project 2nd Module\1228757_Ok_row\store App customer information\App1cus\App1\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Dot Net-C#\2nd Exam_C#-Part-2 &amp; SQL-Part-1\C#-Part-2\Project 2nd Module\1228757_Ok_row\store App customer information\App1cus\App1\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Dot Net-C#\2nd Exam_C#-Part-2 &amp; SQL-Part-1\C#-Part-2\Project 2nd Module\1228757_Ok_row\store App customer information\App1cus\App1\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Dot Net-C#\2nd Exam_C#-Part-2 &amp; SQL-Part-1\C#-Part-2\Project 2nd Module\1228757_Ok_row\store App customer information\App1cus\App1\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Dot Net-C#\2nd Exam_C#-Part-2 &amp; SQL-Part-1\C#-Part-2\Project 2nd Module\1228757_Ok_row\store App customer information\App1cus\App1\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-07-11T18:49:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Dot Net-C#\2nd Exam_C#-Part-2 &amp; SQL-Part-1\C#-Part-2\Project 2nd Module\1228757_Ok_row\store App customer information\App1cus\App1\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-08-01T09:46:04.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Dot Net-C#\2nd Exam_C#-Part-2 &amp; SQL-Part-1\C#-Part-2\Project 2nd Module\1228757_Ok_row\store App customer information\App1cus\App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2017-08-01T09:45:05.435</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

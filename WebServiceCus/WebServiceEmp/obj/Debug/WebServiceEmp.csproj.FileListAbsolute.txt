@@ -1,0 +1,72 @@
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL 6th class\Store App Employee\WebServiceEmp\WebServiceEmp\bin\WebServiceEmp.dll.config
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL 6th class\Store App Employee\WebServiceEmp\WebServiceEmp\bin\WebServiceEmp.dll
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL 6th class\Store App Employee\WebServiceEmp\WebServiceEmp\bin\WebServiceEmp.pdb
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL 6th class\Store App Employee\WebServiceEmp\WebServiceEmp\obj\Debug\WebServiceEmp.csprojResolveAssemblyReference.cache
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL 6th class\Store App Employee\WebServiceEmp\WebServiceEmp\obj\Debug\WebServiceEmp.dll
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL 6th class\Store App Employee\WebServiceEmp\WebServiceEmp\obj\Debug\WebServiceEmp.pdb
+E:\1228757\Store App Employee\WebServiceEmp\WebServiceEmp\bin\WebServiceEmp.dll.config
+E:\1228757\Store App Employee\WebServiceEmp\WebServiceEmp\bin\WebServiceEmp.dll
+E:\1228757\Store App Employee\WebServiceEmp\WebServiceEmp\bin\WebServiceEmp.pdb
+E:\1228757\Store App Employee\WebServiceEmp\WebServiceEmp\obj\Debug\WebServiceEmp.csprojResolveAssemblyReference.cache
+E:\1228757\Store App Employee\WebServiceEmp\WebServiceEmp\obj\Debug\WebServiceEmp.dll
+E:\1228757\Store App Employee\WebServiceEmp\WebServiceEmp\obj\Debug\WebServiceEmp.pdb
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\Store App Employee\Store App Employee77\WebServiceEmp\WebServiceEmp\bin\WebServiceEmp.dll.config
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\Store App Employee\Store App Employee77\WebServiceEmp\WebServiceEmp\bin\WebServiceEmp.dll
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\Store App Employee\Store App Employee77\WebServiceEmp\WebServiceEmp\bin\WebServiceEmp.pdb
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\Store App Employee\Store App Employee77\WebServiceEmp\WebServiceEmp\obj\Debug\WebServiceEmp.csprojResolveAssemblyReference.cache
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\Store App Employee\Store App Employee77\WebServiceEmp\WebServiceEmp\obj\Debug\WebServiceEmp.dll
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\Store App Employee\Store App Employee77\WebServiceEmp\WebServiceEmp\obj\Debug\WebServiceEmp.pdb
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\store customer information\WebServiceEmp\WebServiceEmp\bin\WebServiceEmp.dll.config
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\store customer information\WebServiceEmp\WebServiceEmp\bin\WebServiceEmp.dll
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\store customer information\WebServiceEmp\WebServiceEmp\bin\WebServiceEmp.pdb
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\store customer information\WebServiceEmp\WebServiceEmp\obj\Debug\WebServiceEmp.csprojResolveAssemblyReference.cache
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\store customer information\WebServiceEmp\WebServiceEmp\obj\Debug\WebServiceEmp.dll
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\store customer information\WebServiceEmp\WebServiceEmp\obj\Debug\WebServiceEmp.pdb
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\Final Project\store customer information - Copy - Copy\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.dll.config
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\Final Project\store customer information - Copy - Copy\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.dll
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\Final Project\store customer information - Copy - Copy\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.pdb
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\Final Project\store customer information - Copy - Copy\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.csprojResolveAssemblyReference.cache
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\Final Project\store customer information - Copy - Copy\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.dll
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\Final Project\store customer information - Copy - Copy\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.pdb
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\Final Project\store App customer information\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.dll.config
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\Final Project\store App customer information\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.dll
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\Final Project\store App customer information\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.pdb
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\Final Project\store App customer information\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.csprojResolveAssemblyReference.cache
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\Final Project\store App customer information\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.dll
+E:\C# Classes\classes\2nd Module Class\SQL\42-SQL Project class\Final Project\store App customer information\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.pdb
+E:\1228757\store App customer information\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.dll.config
+E:\1228757\store App customer information\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.dll
+E:\1228757\store App customer information\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.pdb
+E:\1228757\store App customer information\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.csprojResolveAssemblyReference.cache
+E:\1228757\store App customer information\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.dll
+E:\1228757\store App customer information\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.pdb
+E:\1228757\1228757\store App customer information\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.dll.config
+E:\1228757\1228757\store App customer information\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.dll
+E:\1228757\1228757\store App customer information\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.pdb
+E:\1228757\1228757\store App customer information\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.csprojResolveAssemblyReference.cache
+E:\1228757\1228757\store App customer information\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.dll
+E:\1228757\1228757\store App customer information\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.pdb
+F:\IDB\Core\r-33\MOdule1\Projects\Final Projects\1228757\store App customer information\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.dll.config
+F:\IDB\Core\r-33\MOdule1\Projects\Final Projects\1228757\store App customer information\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.dll
+F:\IDB\Core\r-33\MOdule1\Projects\Final Projects\1228757\store App customer information\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.pdb
+F:\IDB\Core\r-33\MOdule1\Projects\Final Projects\1228757\store App customer information\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.csprojResolveAssemblyReference.cache
+F:\IDB\Core\r-33\MOdule1\Projects\Final Projects\1228757\store App customer information\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.dll
+F:\IDB\Core\r-33\MOdule1\Projects\Final Projects\1228757\store App customer information\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.pdb
+H:\1228757_Ok_row\store App customer information\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.dll.config
+H:\1228757_Ok_row\store App customer information\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.dll
+H:\1228757_Ok_row\store App customer information\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.pdb
+H:\1228757_Ok_row\store App customer information\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.csprojResolveAssemblyReference.cache
+H:\1228757_Ok_row\store App customer information\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.dll
+H:\1228757_Ok_row\store App customer information\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.pdb
+E:\C# Classes\classes\Project 2nd Module\1228757_Ok_row\store App customer information\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.dll.config
+E:\C# Classes\classes\Project 2nd Module\1228757_Ok_row\store App customer information\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.dll
+E:\C# Classes\classes\Project 2nd Module\1228757_Ok_row\store App customer information\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.pdb
+E:\C# Classes\classes\Project 2nd Module\1228757_Ok_row\store App customer information\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.csprojResolveAssemblyReference.cache
+E:\C# Classes\classes\Project 2nd Module\1228757_Ok_row\store App customer information\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.dll
+E:\C# Classes\classes\Project 2nd Module\1228757_Ok_row\store App customer information\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.pdb
+E:\Dot Net-C#\2nd Exam_C#-Part-2 & SQL-Part-1\C#-Part-2\Project 2nd Module\1228757_Ok_row\store App customer information\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.dll.config
+E:\Dot Net-C#\2nd Exam_C#-Part-2 & SQL-Part-1\C#-Part-2\Project 2nd Module\1228757_Ok_row\store App customer information\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.dll
+E:\Dot Net-C#\2nd Exam_C#-Part-2 & SQL-Part-1\C#-Part-2\Project 2nd Module\1228757_Ok_row\store App customer information\WebServiceCus\WebServiceEmp\bin\WebServiceEmp.pdb
+E:\Dot Net-C#\2nd Exam_C#-Part-2 & SQL-Part-1\C#-Part-2\Project 2nd Module\1228757_Ok_row\store App customer information\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.csprojResolveAssemblyReference.cache
+E:\Dot Net-C#\2nd Exam_C#-Part-2 & SQL-Part-1\C#-Part-2\Project 2nd Module\1228757_Ok_row\store App customer information\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.dll
+E:\Dot Net-C#\2nd Exam_C#-Part-2 & SQL-Part-1\C#-Part-2\Project 2nd Module\1228757_Ok_row\store App customer information\WebServiceCus\WebServiceEmp\obj\Debug\WebServiceEmp.pdb
